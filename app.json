@@ -35,22 +35,22 @@
     "API_ID": {
       "description": "Get this value from my.telegram.org.",
       "required": true,
-      "value": "25919081"
+      "value": ""
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org.",
       "required": true,
-      "value": "0bc2fdba14b16b44f0d89729ed8d2118"
+      "value": ""
     },
     "BOT_TOKEN": {
       "description": "Obtain a Telegram bot token by contacting @BotFather",
       "required": true,
-      "value": "7020435202:AAGzuKiXCHuMte01RdDnYevy5F0qVlihdyE"
+      "value": ""
     },
     "MUST_JOIN": {
       "description": "Add username/id of a channel/group",
       "required": false,
-      "value": "-1002016828504"
+      "value": ""
     }
   }
 }
