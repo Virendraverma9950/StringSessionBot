@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/StarkBotsIndustries/StringSessionBot",
+  "repository": "https://github.com/Virendraverma9950/StringSessionBot",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
@@ -35,22 +35,22 @@
     "API_ID": {
       "description": "Get this value from my.telegram.org.",
       "required": true,
-      "value": ""
+      "value": "25919081"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org.",
       "required": true,
-      "value": ""
+      "value": "0bc2fdba14b16b44f0d89729ed8d2118"
     },
     "BOT_TOKEN": {
       "description": "Obtain a Telegram bot token by contacting @BotFather",
       "required": true,
-      "value": ""
+      "value": "7020435202:AAGzuKiXCHuMte01RdDnYevy5F0qVlihdyE"
     },
     "MUST_JOIN": {
       "description": "Add username/id of a channel/group",
-      "required": false,
-      "value": ""
+      "required": true,
+      "value": "-1002016828504"
     }
   }
 }
